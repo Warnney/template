@@ -1,0 +1,13 @@
+{
+    "name": "warnney.newcss",
+    "title": "Novo do Template",
+    "description": "Create an HTML or CSS skeleton in just 2 clicks",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Warnney Salvatore",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+   
+}
